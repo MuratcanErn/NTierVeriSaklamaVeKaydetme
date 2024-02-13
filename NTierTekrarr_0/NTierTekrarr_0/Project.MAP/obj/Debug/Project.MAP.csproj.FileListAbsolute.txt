@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\NTierTekrarr_0\Project.MAP\bin\Debug\Project.MAP.dll.config
+C:\Users\Lenovo\source\repos\NTierTekrarr_0\Project.MAP\bin\Debug\Project.MAP.dll
+C:\Users\Lenovo\source\repos\NTierTekrarr_0\Project.MAP\bin\Debug\Project.MAP.pdb
+C:\Users\Lenovo\source\repos\NTierTekrarr_0\Project.MAP\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\NTierTekrarr_0\Project.MAP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\NTierTekrarr_0\Project.MAP\bin\Debug\Project.ENTITIES.dll
+C:\Users\Lenovo\source\repos\NTierTekrarr_0\Project.MAP\bin\Debug\Project.ENTITIES.pdb
+C:\Users\Lenovo\source\repos\NTierTekrarr_0\Project.MAP\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\NTierTekrarr_0\Project.MAP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\NTierTekrarr_0\Project.MAP\obj\Debug\Project.MAP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\NTierTekrarr_0\Project.MAP\obj\Debug\Project.MAP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\NTierTekrarr_0\Project.MAP\obj\Debug\Project.MAP.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\NTierTekrarr_0\Project.MAP\obj\Debug\Project.MAP.dll
+C:\Users\Lenovo\source\repos\NTierTekrarr_0\Project.MAP\obj\Debug\Project.MAP.pdb
